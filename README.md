@@ -1,4 +1,4 @@
-[![FRQNC's GitHub stats](https://github-readme-stats.vercel.app/api?username=FRQNC)](https://github.com/anuraghazra/github-readme-stats)
+[![FRQNC's GitHub stats]([https://github-readme-stats.vercel.app/api?username=FRQNC](https://github-readme-stats-rho-eight-25.vercel.app/api?username=FRQNC))](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **FRQNC/FRQNC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
