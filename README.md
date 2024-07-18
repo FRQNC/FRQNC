@@ -1,9 +1,11 @@
+<p align="left">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-rho-eight-25.vercel.app/api?username=FRQNC&show_icons=true&theme=tokyonight" />
+  <img height=180em align="center" src="https://github-readme-stats-rho-eight-25.vercel.app/api?username=FRQNC&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-rho-eight-25.vercel.app/api/top-langs?username=FRQNC&theme=tokyonight&layout=compact" />
+  <img height=180em align="center" src="https://github-readme-stats-rho-eight-25.vercel.app/api/top-langs?username=FRQNC&theme=tokyonight&layout=compact" />
 </a>
+</p>
 <!--
 **FRQNC/FRQNC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
