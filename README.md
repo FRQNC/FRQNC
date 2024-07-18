@@ -1,9 +1,13 @@
 <p align="left">
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/FRQNC">
   <img height=180em align="center" src="https://github-readme-stats-rho-eight-25.vercel.app/api?username=FRQNC&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/FRQNC">
   <img height=180em align="center" src="https://github-readme-stats-rho-eight-25.vercel.app/api/top-langs?username=FRQNC&theme=tokyonight&layout=compact" />
+</a>
+  <br><br>
+  <a href="https://github.com/FRQNC">
+  <img height=25em align="center" src="https://komarev.com/ghpvc/?username=FRQNC" />
 </a>
 </p>
 <!--
