@@ -1,9 +1,9 @@
 <p align="left">
 <a href="https://github.com/FRQNC">
-  <img height=180em align="center" src="https://github-readme-stats-2ju8i4yd9-frqncs-projects.vercel.app/api?username=FRQNC&show_icons=true&theme=tokyonight" />
+  <img height=180em align="center" src="https://github-readme-stats-rho-eight-25.vercel.app/api?username=FRQNC&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/FRQNC">
-  <img height=180em align="center" src="https://github-readme-stats-2ju8i4yd9-frqncs-projects.vercel.app/api/top-langs?username=FRQNC&theme=tokyonight&layout=compact" />
+  <img height=180em align="center" src="https://github-readme-stats-rho-eight-25.vercel.app/api/top-langs?username=FRQNC&theme=tokyonight&layout=compact" />
 </a>
   <br><br>
   <a href="https://github.com/FRQNC">
